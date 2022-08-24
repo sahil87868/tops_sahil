@@ -1,0 +1,27 @@
+h1,h2,h3
+{
+    background-color: yellow;
+    color: red;
+    text-align: center;
+}
+.sahil
+{color: red;}
+.shaikh
+{background-color: green;}
+#test
+{text-align: center; text-decoration: underline;}
+.demo
+{
+    background-color: black;
+    color: white;
+}
+.box
+{
+    background-color: red;
+    height: 100px;
+    width: 100px;
+}
+.box p
+{
+    color: white;
+}
